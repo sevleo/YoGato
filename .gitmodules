@@ -1,0 +1,6 @@
+[submodule "YoGato-frontend"]
+	path = YoGato-frontend
+	url = https://github.com/sevleo/YoGato-frontend
+[submodule "YoGato-backend"]
+	path = YoGato-backend
+	url = https://github.com/sevleo/YoGato-backend
