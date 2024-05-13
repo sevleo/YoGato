@@ -4,3 +4,7 @@
 [submodule "YoGato-backend"]
 	path = YoGato-backend
 	url = https://github.com/sevleo/YoGato-backend
+
+
+# git submodule update --remote --merge YoGato-frontend
+# git submodule update --remote --merge YoGato-backend
