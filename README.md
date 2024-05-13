@@ -91,9 +91,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - seva.leonov@hotmail.com
-
-Project Link: [https://github.com/sevleo/YoGato](https://github.com/sevleo/YoGato)
+Sev Leo
+email: seva.leonov@hotmail.com
+instagram: https://www.instagram.com/seva_leo/
+linkedIn: https://linkedin.com/in/seva-leo-733b09114
+telegram: @seva_leo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
