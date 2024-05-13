@@ -92,10 +92,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Sev Leo
-email: seva.leonov@hotmail.com
-instagram: https://www.instagram.com/seva_leo/
-linkedIn: https://linkedin.com/in/seva-leo-733b09114
-telegram: @seva_leo
+
+- email: seva.leonov@hotmail.com
+- instagram: https://www.instagram.com/seva_leo/
+- linkedIn: https://linkedin.com/in/seva-leo-733b09114
+- telegram: @seva_leo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
