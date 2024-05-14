@@ -46,6 +46,8 @@
 
 ### Built With
 
+#### Main technologies:
+
 [![React][React.js]][React-url]
 [![NodeJs][Node.js]][Node-url]
 [![Typescript][Typescript]][Typescript-url]
