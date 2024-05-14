@@ -50,6 +50,7 @@
 [![NodeJs][Node.js]][Node-url]
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
+[![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,3 +124,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Typescript-url]: https://www.typescriptlang.org/
 [Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E
 [Javascript-url]: https://www.javascript.com/
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4
+[TailwindCSS-url]: https://tailwindcss.com/
