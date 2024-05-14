@@ -74,6 +74,7 @@
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - to make sound announcements to work properly on mobile browsers
 - [Lodash](https://lodash.com/) - for sorting functions
 - [MongooseJs](https://mongoosejs.com/) - to model application data
+- [Elevenlabs.io](https://elevenlabs.io/) - to generate pose announcements
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- [rebeccaestes](https://github.com/rebeccaestes/yoga_api), [stuwert](https://github.com/Stuwert/yoga-builder), and [alexcumplido](https://github.com/alexcumplido/yoga-api?tab=readme-ov-file) for providing poses descriptions.
+- [rebeccaestes](https://github.com/rebeccaestes/yoga_api), [stuwert](https://github.com/Stuwert/yoga-builder), and [alexcumplido](https://github.com/alexcumplido/yoga-api?tab=readme-ov-file) for providing poses descriptions and images.
 - [emma goto](https://www.emgoto.com/react-table-of-contents/) for implementation of table of contents
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
