@@ -55,7 +55,7 @@
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 [![MongoDB][MongoDB]][MongoDB-url]
 
-#### Additional libraries & toolkits:
+#### Other notable libraries & toolkits:
 
 - [DND Kit](https://dndkit.com/) - to control drag & drop
 - [uuid](https://www.npmjs.com/package/uuid)- to generate unique id
