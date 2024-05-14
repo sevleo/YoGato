@@ -57,15 +57,15 @@
 #### Additional libraries & toolkits:
 
 - [DND Kit](https://dndkit.com/) - to control drag & drop
-- uuid - to generate unique id
-- hamburger-react - to add hamburger menu
-- react-slick - to make smooth slider in the player
-- react-use-precision-timer - to make accurate flow timer
-- Axios - for communication with server
-- date-fns - for date formatting
-- Passportjs - for authentication and session management
-- Web Audio API - to make sound announcements to work properly on mobile browsers
-- Lodash - for sorting functions
+- [uuid](https://www.npmjs.com/package/uuid)- to generate unique id
+- [hamburger-react](https://www.npmjs.com/package/hamburger-react) - to add hamburger menu
+- [react-slick](https://react-slick.neostack.com/) - to make smooth slider in the player
+- [react-use-precision-timer](https://www.npmjs.com/package/react-use-precision-timer) - to make accurate flow timer
+- [Axios](https://axios-http.com/) - for communication with server
+- [date-fns](https://date-fns.org) - for date formatting
+- [Passportjs](http://www.passportjs.org/) - for authentication and session management
+- [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - to make sound announcements to work properly on mobile browsers
+- [Lodash](https://lodash.com/) - for sorting functions
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
