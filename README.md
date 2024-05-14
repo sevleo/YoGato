@@ -46,8 +46,8 @@
 
 ### Built With
 
-- [![React][React.js]][React-url]
-- [![NodeJs][Node.js]][Node-url]
+[![React][React.js]][React-url]
+[![NodeJs][Node.js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
