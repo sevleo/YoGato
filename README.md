@@ -67,6 +67,7 @@
 - [Passportjs](http://www.passportjs.org/) - for authentication and session management
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - to make sound announcements to work properly on mobile browsers
 - [Lodash](https://lodash.com/) - for sorting functions
+- [MongooseJs](https://mongoosejs.com/) - to model application data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
