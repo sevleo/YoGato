@@ -54,6 +54,18 @@
 [![Javascript][Javascript]][Javascript-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
+#### Additional libraries & toolkits:
+
+- DND Kit - to control drag & drop
+- uuid - to generate unique id
+- hamburger-react - to add hamburger menu
+- react-slick - to make smooth slider
+- react-use-precision-timer - to make accurate flow timer
+- Axios - for communication with server
+- date-fns - for date formatting
+- Passportjs - for authentication
+- Web Audio API - to make sound announcements to work properly on mobile browsers
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
