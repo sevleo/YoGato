@@ -53,6 +53,7 @@
 [![Typescript][Typescript]][Typescript-url]
 [![Javascript][Javascript]][Javascript-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
+[![MongoDB][MongoDB]][MongoDB-url]
 
 #### Additional libraries & toolkits:
 
@@ -141,3 +142,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Javascript-url]: https://www.javascript.com/
 [TailwindCSS]: https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4
 [TailwindCSS-url]: https://tailwindcss.com/
+[MongoDB]: https://img.shields.io/badge/mongodb-20232A?style=for-the-badge&logo=mongodb
+[MongoDB-url]: https://www.mongodb.com/
