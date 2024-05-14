@@ -25,7 +25,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#main-technologies">Main technologies</a></li>
+        <li><a href="#other-notable-libraries-and-toolkits">Other notable libraries & toolkits</a></li>
+        <li><a href="#hosting">Hosting</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -33,6 +35,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -44,9 +47,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
-
-#### Main technologies:
+### Main technologies:
 
 [![React][React.js]][React-url]
 [![NodeJs][Node.js]][Node-url]
@@ -55,7 +56,7 @@
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 [![MongoDB][MongoDB]][MongoDB-url]
 
-#### Other notable libraries & toolkits:
+### Other notable libraries & toolkits:
 
 - [DND Kit](https://dndkit.com/) - to control drag & drop
 - [uuid](https://www.npmjs.com/package/uuid)- to generate unique id
@@ -68,6 +69,11 @@
 - [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API) - to make sound announcements to work properly on mobile browsers
 - [Lodash](https://lodash.com/) - for sorting functions
 - [MongooseJs](https://mongoosejs.com/) - to model application data
+
+### Hosting:
+
+- [Adaptable.io](https://adaptable.io/) - to host backend
+- [Netlify](https://www.netlify.com) - to host frontend
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
