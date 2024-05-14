@@ -129,9 +129,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
+- [rebeccaestes](https://github.com/rebeccaestes/yoga_api), [stuwert](https://github.com/Stuwert/yoga-builder), and [alexcumplido](https://github.com/alexcumplido/yoga-api?tab=readme-ov-file) for providing poses descriptions.
+- [emma goto](https://www.emgoto.com/react-table-of-contents/) for implementation of table of contents
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
