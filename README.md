@@ -49,6 +49,7 @@
 [![React][React.js]][React-url]
 [![NodeJs][Node.js]][Node-url]
 [![Typescript][Typescript]][Typescript-url]
+[![Javascript][Javascript]][Javascript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -120,3 +121,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Node-url]: https://nodejs.org/en
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=#3178C6
 [Typescript-url]: https://www.typescriptlang.org/
+[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=#F7DF1E
+[Javascript-url]: https://www.javascript.com/
