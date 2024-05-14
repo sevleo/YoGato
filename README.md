@@ -47,7 +47,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Main technologies:
+### Main technologies
 
 [![React][React.js]][React-url]
 [![NodeJs][Node.js]][Node-url]
@@ -56,12 +56,12 @@
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 [![MongoDB][MongoDB]][MongoDB-url]
 
-### Hosting:
+### Hosting
 
 - [Adaptable.io](https://adaptable.io/) - to host backend
 - [Netlify](https://www.netlify.com) - to host frontend
 
-### Other notable libraries and toolkits:
+### Other notable libraries and toolkits
 
 - [DND Kit](https://dndkit.com/) - to control drag & drop
 - [uuid](https://www.npmjs.com/package/uuid)- to generate unique id
