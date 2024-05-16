@@ -93,12 +93,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
+- [ ] Add User Preferences section
+  - [ ] Allow user update & reset their password
+- [ ] Add login through Facebook
+- [ ] Update catalog of poses to include left-side & right-side poses
+- [ ] Add ability to search for poses in the catalog
+- [ ] Add ability to search for poses in the designer
+- [ ] Add ability to change view of poses in the designer: by categories, by names
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+<!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
