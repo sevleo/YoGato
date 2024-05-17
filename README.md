@@ -100,8 +100,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Add ability to search for poses in the catalog
 - [ ] Add ability to search for poses in the designer
 - [ ] Add ability to change view of poses in the designer: by categories, by names
-
-<!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
+- [ ] Update sequence builder
+  - [ ] Add final sound to signal the end of the sequence
+  - [ ] Add "Meditation" pose
+  - [ ] Add "Free flow" pose
+  - [ ] Add a few seconds of time to prepare before the sequence begins
+  <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
