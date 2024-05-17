@@ -93,13 +93,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
+- [ ] Add ability to change view of poses in the designer: by categories, by names
+- [ ] Add ability to search for poses in the catalog
+- [ ] Add ability to search for poses in the designer
 - [ ] Add User Preferences section
   - [ ] Allow user update & reset their password
 - [ ] Add login through Facebook
 - [ ] Update catalog of poses to include left-side & right-side poses
-- [ ] Add ability to search for poses in the catalog
-- [ ] Add ability to search for poses in the designer
-- [ ] Add ability to change view of poses in the designer: by categories, by names
 - [ ] Update sequence builder
   - [ ] Add final sound to signal the end of the sequence
   - [ ] Add "Meditation" pose
