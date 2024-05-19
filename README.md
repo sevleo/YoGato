@@ -93,9 +93,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [ ] Add ability to change view of poses in the designer: by categories, by names
-- [ ] Add ability to search for poses in the catalog
-- [ ] Add ability to search for poses in the designer
+- [x] Add ability to change view of poses in the designer: by categories, by names
+- [x] Add ability to search for poses in the designer
 - [ ] Add User Preferences section
   - [ ] Allow user update & reset their password
 - [ ] Add login through Facebook
