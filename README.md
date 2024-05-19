@@ -93,6 +93,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
+- [x] Release YoGato 1.0
 - [x] Add ability to change view of poses in the designer: by categories, by names
 - [x] Add ability to search for poses in the designer
 - [ ] Add User Preferences section
