@@ -105,7 +105,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] Add "Meditation" pose
   - [ ] Add "Free flow" pose
   - [ ] Add a few seconds of time to prepare before the sequence begins
-  <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
+- [ ] Add Feedback page
+- [ ] Change Google login to a pop-up instead of redirect
+- [ ] Add "Save" feedback from the app, e.g. green Success message and red Error message
+- [ ] Add color themes
+<!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
