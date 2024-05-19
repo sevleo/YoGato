@@ -46,8 +46,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://yogato.netlify.app)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Main technologies
 
 [![React][React.js]][React-url]
@@ -76,8 +74,6 @@
 - [Lodash](https://lodash.com/) - for sorting functions
 - [MongooseJs](https://mongoosejs.com/) - to model application data
 - [Elevenlabs.io](https://elevenlabs.io/) - to generate pose announcements
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -111,8 +107,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Add color themes
 <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -128,15 +122,11 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- LICENSE -->
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -147,16 +137,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - linkedIn: https://linkedin.com/in/seva-leo-733b09114
 - telegram: @sevaleo
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
 - [rebeccaestes](https://github.com/rebeccaestes/yoga_api), [stuwert](https://github.com/Stuwert/yoga-builder), and [alexcumplido](https://github.com/alexcumplido/yoga-api?tab=readme-ov-file) for providing poses descriptions and images.
 - [emma goto](https://www.emgoto.com/react-table-of-contents/) for implementation of table of contents
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
