@@ -91,7 +91,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Release YoGato 1.0
 
-  1.0 Enhancements:
+Yogato 1.0 enhancements:
 
 - [x] Add ability to change view of poses in the designer: by categories, by names
 - [x] Add ability to search for poses in the designer
@@ -109,7 +109,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Add "Save" feedback from the app, e.g. green Success message and red Error message
 - [ ] Add color themes
 
-Yogato 1.1:
+Yogato 1.1 features:
 
 - [ ] Add ability to publish your flow to shared library
 - [ ] Add ability to explore the library
