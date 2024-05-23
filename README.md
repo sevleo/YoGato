@@ -90,6 +90,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Release YoGato 1.0
+
+  1.0 Enhancements:
+
 - [x] Add ability to change view of poses in the designer: by categories, by names
 - [x] Add ability to search for poses in the designer
 - [x] Add User Preferences section
@@ -105,6 +108,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Change Google login to a pop-up instead of redirect
 - [x] Add "Save" feedback from the app, e.g. green Success message and red Error message
 - [ ] Add color themes
+
+Yogato 1.1:
+
+- [ ] Add ability to publish your flow to shared library
+- [ ] Add ability to explore the library
+- [ ] Add ability to rate flows created by other users
+- [ ] Add ability to copy flows created by other users
 <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <!-- CONTRIBUTING -->
