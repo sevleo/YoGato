@@ -92,8 +92,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Release YoGato 1.0
 - [x] Add ability to change view of poses in the designer: by categories, by names
 - [x] Add ability to search for poses in the designer
-- [ ] Add User Preferences section
-  - [ ] Allow user update & reset their password
+- [x] Add User Preferences section
+  - [x] Allow user update & reset their password
 - [ ] Add login through Facebook
 - [ ] Update catalog of poses to include left-side & right-side poses
 - [ ] Update sequence builder
@@ -103,7 +103,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] Add a few seconds of time to prepare before the sequence begins
 - [ ] Add Feedback page
 - [ ] Change Google login to a pop-up instead of redirect
-- [ ] Add "Save" feedback from the app, e.g. green Success message and red Error message
+- [x] Add "Save" feedback from the app, e.g. green Success message and red Error message
 - [ ] Add color themes
 <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
