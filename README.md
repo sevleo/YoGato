@@ -97,8 +97,9 @@ Yogato 1.0 enhancements:
 - [x] Add ability to search for poses in the designer
 - [x] Add User Preferences section
   - [x] Allow user update & reset their password
-- [ ] Add login through Facebook
-- [ ] Update catalog of poses to include left-side & right-side poses
+  - [ ] Allow to specify email
+  - [ ] Allow to specify username
+- [x] Update catalog of poses to include left-side & right-side poses
 - [ ] Update sequence builder
   - [ ] Add final sound to signal the end of the sequence
   - [ ] Add "Meditation" pose
@@ -107,7 +108,6 @@ Yogato 1.0 enhancements:
 - [ ] Add Feedback page
 - [ ] Change Google login to a pop-up instead of redirect
 - [x] Add "Save" feedback from the app, e.g. green Success message and red Error message
-- [ ] Add color themes
 
 Yogato 1.1 features:
 
@@ -115,6 +115,11 @@ Yogato 1.1 features:
 - [ ] Add ability to explore the library
 - [ ] Add ability to rate flows created by other users
 - [ ] Add ability to copy flows created by other users
+
+Yogato 1.2 features:
+
+- [ ] Add ability to save several poses to a set
+- [ ] Add ability to switch between Set views and Poses views in the designer
 <!-- See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues). -->
 
 <!-- CONTRIBUTING -->
