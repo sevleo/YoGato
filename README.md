@@ -101,10 +101,10 @@ Yogato 1.0 enhancements:
   - [ ] Allow to specify username
 - [x] Update catalog of poses to include left-side & right-side poses
 - [ ] Update sequence builder
-  - [ ] Add final sound to signal the end of the sequence
+  - [x] Add final sound to signal the end of the sequence
   - [ ] Add "Meditation" pose
   - [ ] Add "Free flow" pose
-  - [ ] Add a few seconds of time to prepare before the sequence begins
+  - [x] Add a few seconds of time to prepare before the sequence begins
 - [ ] Add Feedback page
 - [ ] Change Google login to a pop-up instead of redirect
 - [x] Add "Save" feedback from the app, e.g. green Success message and red Error message
