@@ -89,8 +89,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-- [x] Release YoGato 1.0
-
 Yogato 1.0 enhancements:
 
 - [x] Add ability to change view of poses in the designer: by categories, by names
@@ -104,15 +102,18 @@ Yogato 1.0 enhancements:
 
 Yogato 1.1 features:
 
-- [ ] Add Feedback page
-- [ ] Allow to specify recovery email
-- [ ] Change Google login to a pop-up instead of redirect
 - [ ] Add ability to publish your flow to shared library
 - [ ] Add ability to explore the library
 - [ ] Add ability to rate flows created by other users
 - [ ] Add ability to copy flows created by other users
 
 Yogato 1.2 features:
+
+- [ ] Add Feedback page
+- [ ] Allow to specify recovery email
+- [ ] Change Google login to a pop-up instead of redirect
+
+Yogato 1.3 features:
 
 - [ ] Add ability to save several poses to a set
 - [ ] Add ability to switch between Set views and Poses views in the designer
