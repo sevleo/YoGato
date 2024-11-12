@@ -57,8 +57,8 @@
 
 ### Hosting
 
-- [Adaptable.io](https://adaptable.io/) - to host backend
-- [Netlify](https://www.netlify.com) - to host frontend
+- [Fly.io](https://fly.io/) - for backend
+- [Netlify](https://www.netlify.com) - for frontend
 
 ### Other notable libraries and toolkits
 
